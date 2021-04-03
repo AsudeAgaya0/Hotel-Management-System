@@ -1,0 +1,3 @@
+invoiceNO,date,cost,about,by
+10321543,12.05.2020,25000,food stock,ahmet gürbüz
+10452512,12.11.2019,3500,reception stuff,okan türkmen

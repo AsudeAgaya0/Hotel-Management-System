@@ -1,0 +1,5 @@
+type,roomID,price,numberOfBed,numberOfShower,view,available,customerSID
+suit,400,1500,1,1,sea,true,null
+double,401,2500,2,1,normal,true,null
+twin,402,3500,2,2,normal,false,32449549
+king,403,4500,3,3,sea,true,null

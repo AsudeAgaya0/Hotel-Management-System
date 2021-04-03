@@ -1,0 +1,5 @@
+name,surname,socialid,age,departureday,arrivalday,totalprice,roomid,phonenumber,address,gender
+ahmet,demir,75839213,28,25.05.2020,21.05.2020,0.0,0,+905325897859,Istanbul-Uskudar-IzzetBaysal,true
+zeynep,arslan,32449549,35,05.06.2020,01.06.2020,3500.0,402,+905355762317,Izmir-Buca-AhmetYesevi,false
+semih,goktug,32154510,54,03.06.2020,01.06.2020,0.0,0,+905354315211,Istanbul-Cengelkoy-SehitBurak,true
+selin,akar,32145219,23,01.06.2020,29.05.2020,0.0,0,+905355343214,Ankara-Cankaya-Ataturk,false

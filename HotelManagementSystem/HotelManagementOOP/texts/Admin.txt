@@ -1,0 +1,4 @@
+name,surname,socialID,staffID,phoneNumber,address,insurance,salary,age,gender,bDay,educationstatus,startday,working,department
+asude,agaya,97617264,1234,+905325872193,IZMIR-BUCA-AhmetYesevi,true,8000.0,22,false,01.01.1998,bachelor,00.00.0000,true,admin
+zekiye,dogan,81724021,4321,+905325829103,IZMIR-BUCA-AhmetYesevi,true,8000.0,22,false,01.01.1998,bachelor,00.00.0000,true,admin
+alper,temel,87201293,1461,+905325869281,MERKEZ-Kandil-BOLU,true,8000.0,22,false,15.11.1998,bachelor,00.00.0000,true,admin

@@ -1,0 +1,2 @@
+name,surname,socialID,staffID,phoneNumber,address,insurance,salary,age,gender,bDay,educationstatus,startday,working,department
+selma,akbas,23145212,102,+905325358213,ISTANBUL-KADIKOY-SOYAK,true,2850.0,42,true,15.12.1978,bachelor,02.03.2020,true,accounting

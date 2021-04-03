@@ -1,0 +1,2 @@
+name,surname,socialID,staffID,phoneNumber,address,insurance,salary,age,gender,bDay,educationstatus,startday,working,department
+furkan,gülmez,98734109,101,+905355728192,Istanbul-Besiktas-Kurukoy,true,2450.0,24,true,14.11.1986,bachelor,02.02.2020,true,reception
